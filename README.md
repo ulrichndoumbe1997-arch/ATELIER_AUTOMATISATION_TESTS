@@ -20,7 +20,7 @@ Votre mission :
 Objectif : Création d'un Repository GitHUB pour travailler avec son projet  
 Difficulté : Très facile (~10 minutes)
 -------------------------------------------------------------------------------------------------------
-**Faites un Fork de ce projet**. Si besoin, voici une vidéo d'accompagnement pour vous aider à "Forker" un Repository Github : [Forker ce projet](https://youtu.be/p33-7XQ29zQ)  
+**Faites un Fork de ce projet**. Si besoin, voici une vidéo d'accompagnement pour vous aider à "Forker" un Repository Github : [Forker ce projet](https://youtu.be/p33-7XQ29zQ)   
 
 ---------------------------------------------------
 🧩 Séquence 2 : Création d'un site chez Pythonanywhere
